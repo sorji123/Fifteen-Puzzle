@@ -1,4 +1,3 @@
-//Javascript for Fifteenpuzzle.html by Abdullah Hadid, and a little help from the internet 
 
 var empty;
 var Number_of_moves;
