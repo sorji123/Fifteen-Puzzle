@@ -1,7 +1,8 @@
 
 
 <h1>Fifteen Puzzle Game</h1>
-![image](https://user-images.githubusercontent.com/77766337/142495126-4aeebb94-4b13-43ba-8b90-efe3b24cdfb3.png)
+
+![image](https://user-images.githubusercontent.com/77766337/142495267-408582d6-69c4-4be5-88e7-082b6730606f.png)
 
 
 <h1>Description</h1>
